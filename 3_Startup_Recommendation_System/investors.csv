@@ -1,0 +1,11 @@
+id,name,firm,preferred_sectors,preferred_stages,min_investment,max_investment,location,portfolio_count,focus,notable_exits
+inv_001,Ananya Kapoor,Inflection Ventures,FinTech|SaaS|DeepTech,Seed|Series A,0.5,10.0,"Mumbai, India",18,B2B enterprise software and financial infrastructure for emerging markets,PolicyBazaar|RazorPay|BharatPe
+inv_002,Rajan Mehta,BioHorizon Capital,BioTech|HealthTech|DeepTech,Series A|Series B,3.0,30.0,"Hyderabad, India",12,"Life sciences, diagnostics, and biotech platforms with global IP",Strand Life Sciences|Molbio Diagnostics
+inv_003,Priya Nair,GreenFuture Fund,CleanTech|AgriTech|SaaS,Pre-Seed|Seed|Series A,0.2,8.0,"Delhi, India",24,"Climate tech, sustainable agriculture, and circular economy",ReNew Power|Avaada Energy
+inv_004,Vikram Sinha,GameOn Ventures,GameTech|E-Commerce|SaaS,Seed|Series A,0.5,12.0,"Bangalore, India",21,"Consumer internet, gaming, and creator economy",Dream11|MPL|Nykaa
+inv_005,Sneha Agarwal,EduQuest Capital,EdTech|SaaS|HealthTech,Pre-Seed|Seed|Series A,0.3,7.0,"Mumbai, India",16,"Education technology, skilling, and health access for Bharat",BYJU's early exit|Vedantu|upGrad
+inv_006,Rahul Tiwari,DeepTech Foundry,DeepTech|FinTech|SaaS,Seed|Series A|Series B,1.0,20.0,"Bangalore, India",14,"Semiconductor, AI, and advanced manufacturing deeptech",SigTuple|Mad Street Den
+inv_007,Meera Joshi,AgriGrowth Partners,AgriTech|CleanTech|FinTech,Pre-Seed|Seed,0.1,4.0,"Pune, India",28,"Rural tech, agri-lending, and food supply chain",Ninjacart|DeHaat|Jai Kisan
+inv_008,Arjun Bose,ConsumerFirst Capital,E-Commerce|GameTech|EdTech,Series A|Series B,2.0,25.0,"Delhi, India",19,Mass-market consumer tech serving India's next 500 million internet users,Meesho|ShareChat|Moglix
+inv_009,Deepika Rao,HealthVentures India,HealthTech|BioTech|DeepTech,Seed|Series A|Series B,0.5,15.0,"Chennai, India",22,"Digital health, medical devices, and life sciences",Portea Medical|mFine|1mg
+inv_010,Suresh Kumar,Impact Alpha Fund,AgriTech|EdTech|CleanTech,Pre-Seed|Seed,0.1,3.0,"Hyderabad, India",31,"Impact-first investing in rural India, climate resilience, and skilling",Swayam Krishi Sangam|Gram Tarang
